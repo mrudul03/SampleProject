@@ -4,6 +4,7 @@ import java.util.List;
 
 public class Contact {
 	
+	
 	private String contactId;
 	private String nickName;
 	private List<PhoneNumber> phoneNumbers;
